@@ -10,7 +10,7 @@ https://your-vercel-link.vercel.app
 ---
 
 ## 📁 GitHub Repository
-[https://github.com/your-username/your-repo](https://github.com/ajayrajak3172004/accredian-clone)
+https://github.com/ajayrajak3172004/accredian-clone
 
 ---
 
