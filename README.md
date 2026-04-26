@@ -5,7 +5,7 @@ This project is a **partial clone of the Accredian Enterprise website** built us
 ---
 
 ## 🔗 Live Demo
-https://your-vercel-link.vercel.app
+https://accredian-clone-ashen.vercel.app/
 
 ---
 
