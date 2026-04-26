@@ -79,10 +79,10 @@ AI tools were used during development to improve productivity and learning:
 
 ```bash id="setup1"
 # Clone repo
-git clone https://github.com/your-username/your-repo.git
+https://github.com/ajayrajak3172004/accredian-clone
 
 # Move to project
-cd your-repo
+cd accredian-clone
 
 # Install dependencies
 npm install
