@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-scroll {
+  animation: scroll 5s linear infinite;
+}
+
+.slick-dots li button:before {
+  content: "" !important;
+  width: 8px !important;
+  height: 8px !important;
+  background: gray !important;
+  border-radius: 50% !important;
+  display: inline-block !important;
+}
+
+.slick-dots li.slick-active button:before {
+  background: #3b54f6 !important;
+}
